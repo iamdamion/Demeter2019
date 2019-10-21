@@ -1,7 +1,7 @@
 ## <p align="center">Functional Connectivity Fingerprints at Rest are Similar Across Youths and Adults and Vary with Genetic Similarity</p>    
 <p align="center"> Scripts and other resources for replication of this work</p>   
 
-[doin/link goes here once accepted](http://github.com/iamdamion)
+[doi/link goes here once accepted](http://github.com/iamdamion)
 
 ---
 ### Scripts:
@@ -11,11 +11,17 @@
 ---
 ### Required Playlist:
 The following playlist was used for data cleaning.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 
-<iframe src="https://open.spotify.com/embed/playlist/6LRuZzo0XFjbFdTyrTOgHn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
----
-### Main Scripts/Notes or Methodology List
-* Any files will be referenced in the wiki and linked to the scripts directory   
-1. [PLINK Genetic Calculations](https://github.com/iamdamion/TWINS_EF_HERITABILITY/wiki/PLINK-Heritability-Notes)
+
