@@ -5,11 +5,10 @@
 
 ---
 ### Scripts:
-* Main SVM Classifier Script: Twin_Match.py
-* SVM Using Opposite Group Features Script: Opposite_Mask_SVM.py  
+- Main SVM Classifier Script: Twin_Match.py   
+- SVM Using Opposite Group Features Script: Opposite_Mask_SVM.py   
 
-* Requirements:  
-- (Unfortunately) these scripts are written in python 2.7 and require:
+- Requirements: (Unfortunately) these scripts are written in python 2.7. Other requirements:
 ```
 numpy
 scipy
@@ -29,7 +28,6 @@ matplotlib
 ```
 - Beyond this, see the -h (help) argument in the scripts for full details of required arguments. 
 - See in-code comments for notes about each step, etc. (I try to heavily comment my code....probably too much to be honest).
-
 
 ---
 ### Required Playlist:
