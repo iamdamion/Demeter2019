@@ -31,18 +31,19 @@ matplotlib
 
 ---
 ### Required Playlist:
-The following playlist was used for data cleaning.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-
+The following playlist was used for data cleaning. The main author of this work can't guarantee your successful use of these scripts without this playlist:
+```
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+```
 
 
 
