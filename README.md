@@ -1,4 +1,4 @@
-## <p align="center">Functional Connectivity Fingerprints at Rest are Similar Across Youths and Adults and Vary with Genetic Similarity</p>    
+## <p align="center">"Functional Connectivity Fingerprints at Rest are Similar Across Youths and Adults and Vary with Genetic Similarity"</p>    
 <p align="center"> Scripts and other resources for replication of this work</p>   
 
 [doi/link goes here once accepted](http://github.com/iamdamion)
