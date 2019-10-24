@@ -1,7 +1,14 @@
 ## <p align="center">"Functional Connectivity Fingerprints at Rest are Similar Across Youths and Adults and Vary with Genetic Similarity"</p>    
+[doi/link goes here once accepted](http://github.com/iamdamion)   
 <p align="center"> Scripts and other resources for replication of this work</p>   
 
-[doi/link goes here once accepted](http://github.com/iamdamion)
+### Authors:
+Damion V. Demeter*(1), Laura E. Engelhardt(1), Remington Mallett(1), Evan M. Gordon(4), Tehila Nugiel(1), K. Paige Harden(1,2), Elliot M. Tucker-Drob(1,2), Jarrod A. Lewis-Peacock(1,3), Jessica A. Church(1,3)
+1. Department of Psychology, The University of Texas at Austin, Austin, TX 78712 USA
+2. Population Research Center, The University of Texas at Austin, Austin, TX 78712 USA
+3. Biomedical Imaging Center, The University of Texas at Austin, Austin, TX 78712 USA 
+4. VISN 17 Center of Excellence for Research on Returning War Veterans, Waco, TX 76711 USA
+* Correspondence: demeter@utexas.edu
 
 ---
 ### Scripts:
