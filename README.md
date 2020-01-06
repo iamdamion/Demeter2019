@@ -1,16 +1,14 @@
-## <p align="center">"Functional connectivity fingerprints at rest are similar across youths and adults and vary with genetic similarity"</p>    
-[doi.org/10.1016/j.isci.2019.100801](https://doi.org/10.1016/j.isci.2019.100801)   
-<p align="center"> Scripts and other resources for replication of this work</p>   
+## <p align="center">"Functional connectivity fingerprints at rest are similar across youths and adults and vary with genetic similarity"</p>
+[doi.org/10.1016/j.isci.2019.100801](https://doi.org/10.1016/j.isci.2019.100801)  
 
 ### Authors:
-Damion V. Demeter*(1), Laura E. Engelhardt(1), Remington Mallett(1), Evan M. Gordon(4), Tehila Nugiel(1), K. Paige Harden(1,2), Elliot M. Tucker-Drob(1,2), Jarrod A. Lewis-Peacock(1,3), Jessica A. Church(1,3)
-1. Department of Psychology, The University of Texas at Austin, Austin, TX 78712 USA
-2. Population Research Center, The University of Texas at Austin, Austin, TX 78712 USA
-3. Biomedical Imaging Center, The University of Texas at Austin, Austin, TX 78712 USA 
-4. VISN 17 Center of Excellence for Research on Returning War Veterans, Waco, TX 76711 USA
+Damion V. Demeter*, Laura E. Engelhardt, Remington Mallett, Evan M. Gordon, Tehila Nugiel, K. Paige Harden, Elliot M. Tucker-Drob, Jarrod A. Lewis-Peacock, Jessica A. Church
 * Correspondence: demeter@utexas.edu
 
+![Graphical Abstract](https://ars.els-cdn.com/content/image/1-s2.0-S2589004219305474-fx1_lrg.jpg)
+
 ---
+<p align="center"> Scripts and other resources for replication of this work</p>   
 ### Scripts:
 - Main SVM Classifier Script: Twin_Match.py   
 - SVM Using Opposite Group Features Script: Opposite_Mask_SVM.py   
