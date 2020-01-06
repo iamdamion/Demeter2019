@@ -1,4 +1,4 @@
-### <p align="center">[**Functional connectivity fingerprints at rest are similar across youths and adults and vary with genetic similarity**](http://www.sciencedirect.com/science/article/pii/S2589004219305474)</p>
+## <p align="center">[**Functional connectivity fingerprints at rest are similar across youths and adults and vary with genetic similarity**](http://www.sciencedirect.com/science/article/pii/S2589004219305474)</p>
 ### <p align="center">[DOI: 10.1016/j.isci.2019.100801](https://doi.org/10.1016/j.isci.2019.100801)</p>
 
 
@@ -9,7 +9,7 @@ Damion V. Demeter*, Laura E. Engelhardt, Remington Mallett, Evan M. Gordon, Tehi
 ![Graphical Abstract](https://ars.els-cdn.com/content/image/1-s2.0-S2589004219305474-fx1_lrg.jpg)
 
 ---
-# <p align="center">**Scripts and other resources for replication of this work**</p>   
+## <p align="center">**Scripts and other resources for replication of this work**</p>   
 
 ### Scripts:
 - Main SVM Classifier Script: Twin_Match.py   
