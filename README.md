@@ -1,5 +1,5 @@
 ## <p align="center">[Functional connectivity fingerprints at rest are similar across youths and adults and vary with genetic similarity](http://www.sciencedirect.com/science/article/pii/S2589004219305474)</p>
-[doi.org/10.1016/j.isci.2019.100801](https://doi.org/10.1016/j.isci.2019.100801)  
+<p align="center">[doi.org/10.1016/j.isci.2019.100801](https://doi.org/10.1016/j.isci.2019.100801)</p>
 
 ### Authors:
 Damion V. Demeter*, Laura E. Engelhardt, Remington Mallett, Evan M. Gordon, Tehila Nugiel, K. Paige Harden, Elliot M. Tucker-Drob, Jarrod A. Lewis-Peacock, Jessica A. Church
