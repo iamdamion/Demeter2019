@@ -38,7 +38,7 @@ matplotlib
 
 ---
 ### Required Playlist:
-The following playlist was used for data cleaning. The main author of this work can't guarantee your successful use of these scripts without this playlist:   
+The following playlist was used for data cleaning (language warning). The main author of this work can't guarantee your successful use of these scripts without this playlist:   
 https://open.spotify.com/playlist/6gDuLpHIlHqsU58J7eARkS?si=C5bKBQSQTK2O2mU14LfaMQ
 
 
